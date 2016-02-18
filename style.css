@@ -36,7 +36,7 @@ nav ul li a:hover {
 heading{
 	text-align:center;
 	font-family:century gothic;
-	color:#1A5F6E;
+	color:#175461;
 	}
 
 #pic{ padding-left:100px;
@@ -45,18 +45,27 @@ heading{
 	
 #rel{padding-left:100px;
 	padding-top:50px;
+	font-family:geneva;
 	}
 
 #bio{padding-left:100px;
 	padding-top:50px;
 	padding-right:100px;
+	font-family:geneva;
 	}
  
  #group{padding-left:100px;
 	padding-top:50px;
 	padding-right:100px;
+	font-family:geneva;
 	}
 
+#fac{padding-left:100px;
+	padding-top:50px;
+	padding-right:100px;
+	font-family:geneva;
+	
+	}
 
 
 
